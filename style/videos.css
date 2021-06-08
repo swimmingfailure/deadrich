@@ -1,0 +1,19 @@
+#videoList {
+	text-align: center;
+}
+
+.youtube {
+	width: 42%;
+	height: 25vw;
+	margin: 3%;
+	border: lime solid 5px;
+}
+
+.youtube:hover {
+		border: magenta solid 5px;
+}
+
+.youtube.featured{
+	width: 80%;
+	height: 32vw;
+}

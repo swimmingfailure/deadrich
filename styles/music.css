@@ -1,0 +1,11 @@
+#musicList {
+}
+
+.musicItem {
+	width: 25%;
+	height:auto;
+}
+
+.musicItem img {
+	width: 100%;
+}

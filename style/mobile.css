@@ -1,0 +1,21 @@
+@media screen and (max-width: 750px) {
+
+.menuItem {
+	width: 32%;
+}
+
+.musicItem, .youtube {
+	width: 80%;
+}
+
+.youtube, .youtube.featured {
+	height: 55vw
+}
+
+
+.musicName {
+	font-size: 8vw;
+	margin-top: 10px;
+}
+
+}

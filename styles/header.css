@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+
+#header {
+    background: #222222;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.menuItem {
+    display: inline-block;
+    width: 19.5%;
+    text-align: center;
+    color: lime;
+    font-family: 'Zilla Slab Highlight', sans-serif;
+    font-size: 25px;
+}
+
+.menuItem:hover {
+   color: magenta;
+   cursor: pointer;
+}
+
+
+
+
+
